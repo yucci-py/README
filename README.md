@@ -1,4 +1,6 @@
 # README
+參考自 [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) 的學習歷程
+
 
 # Editor
 * Visual Studio Code
